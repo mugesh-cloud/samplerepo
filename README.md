@@ -1,2 +1,2 @@
 # samplerepo
-this is develop a sample repo
+this is develop a sample repo.

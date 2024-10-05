@@ -69,8 +69,8 @@ public class Task1 {
 		System.out.println(displayed4);
 		driver.findElement(By.xpath("//a[@href='/delete_account']")).click();
 		Thread.sleep(2000);
-		boolean displayed5 = driver.findElement(By.xpath("//div[@class='row']/div/h2")).isDisplayed();
-		System.out.println(displayed5);
+		boolean displayed6 = driver.findElement(By.xpath("//div[@class='row']/div/h2")).isDisplayed();
+		System.out.println(displayed6);
 		driver.findElement(By.xpath("//a[text()='Continue']")).click();
 		
 		
